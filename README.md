@@ -31,6 +31,17 @@ The dataset contains the following columns:
 - pizza_name
 
 ### 4. SQL
+SQL queries the sql queries contains a 10 type of queries:
+1. KPI's
+2. Total sales amount of pizza sold (by category)
+3. Top 5 best-selling pizzas (by revenue)
+4. Bottom 5 least-selling pizzas (by revenue)
+5. Top 5 best-selling pizzas (by quantity)
+6. Bottom 5 least-selling pizzas (by quantity)
+7. Top 5 best-selling pizzas (by total orders)
+8. Bottom 5 least-selling pizzas (by total orders)
+9. Daily trend for total orders
+10. Monthly trend for total orders
 
 ### 5. Python for EDA and Visualization
 I utilized Python for Exploratory Data Analysis (EDA), data cleansing, and effective data visualization to ensure a comprehensive and accurate understanding of the dataset.
