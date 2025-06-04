@@ -15,6 +15,7 @@ The project aims to analyze the Pizza restaurant sales dataset to derive insight
 ![image alt](https://github.com/seviolin/Pizza-sales-analysis/blob/4814243e5e8926588ed34373e35b0a0b68aeacd6/pizza%20sales%20db.jpg)
 
 ### 3. Dataset
+![image alt](https://github.com/seviolin/Pizza-sales-analysis/blob/0e1750814c8ad225db4a469368116372c75fcb24/dataset%20pizza%20sales.png)
 
 The dataset contains the following columns:
 - pizza_id
@@ -39,4 +40,4 @@ To support this, the Python queries address four type of questions:
 3. How is number of sales of each pizza size?
 4. How is the distribution of total price by the category?
 
-To access the sourcode, click here.
+To access the sourcode, [click here.](https://colab.research.google.com/drive/1DmMc9Gq270xp7pm1nH6QM5wK_CKCKwUz?usp=sharing)
