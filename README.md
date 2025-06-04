@@ -13,6 +13,7 @@ The project aims to analyze the Pizza restaurant sales dataset to derive insight
 
 ### 2. Overview Dashboard
 ![image alt](https://github.com/seviolin/Pizza-sales-analysis/blob/4814243e5e8926588ed34373e35b0a0b68aeacd6/pizza%20sales%20db.jpg)
+To access the dashboard, [click here.](https://lookerstudio.google.com/reporting/f8aede60-a538-4965-80e4-8727812f1280)
 
 ### 3. Dataset
 ![image alt](https://github.com/seviolin/Pizza-sales-analysis/blob/0e1750814c8ad225db4a469368116372c75fcb24/dataset%20pizza%20sales.png)
