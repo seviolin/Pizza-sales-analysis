@@ -12,6 +12,7 @@ Pizza restaurant analysis using Python + SQL + Google Looker Studio
 The project aims to analyze the Pizza restaurant sales dataset to derive insight and facilitate data-driven decision making for anyone interest in data analysis.
 
 ### 2. Overview Dashboard
+![image alt](https://github.com/seviolin/Pizza-sales-analysis/blob/4814243e5e8926588ed34373e35b0a0b68aeacd6/pizza%20sales%20db.jpg)
 
 ### 3. Dataset
 
